@@ -1,0 +1,31 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"Backbone.Marionette",
+		"ChangeQuotes",
+		"CoffeeScript",
+		"CoffeeScriptHaml",
+		"Cucumber",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"HTML Boilerplate",
+		"Jade",
+		"Jade Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"jQuery Snippets for Coffeescript",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"Quick File Move",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets",
+		"Theme - Spacegray"
+	]
+}
